@@ -18,3 +18,4 @@ key: page-boj
 | `title` | `div` | `Solved` | `rate` | `change` | `Date` |
 | --- |  :---: | :---: | :---: | :---: | :---: |
 
+
