@@ -1,7 +1,7 @@
 ---
 title: Ternary Search (삼분 탐색)
 categories: docs
-tags: binary_search
+tags: algorithm, binary_search
 article_header:
   type: cover
 ---
