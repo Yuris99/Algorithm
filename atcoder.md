@@ -14,6 +14,8 @@ key: page-atcoder
 
 | `title` | `Solved` | `rate` | `change` | `Date` |
 | --- | :---: | :---: | :---: | :---: |
-| blog start | | <span style="color:#478000">989</span> | - | 2024 / 09 / 11 |
+| <a href="./atcoder/abc424">AtCoder Beginner Contest 424</a>  | 4 / 7 | <span style="color:#478000">1131</span> | - | 2025 / 09 / 20 |
+| ... |   |   | <span style="color:#77DDBB">1115</span> |  |  |
 | AtCoder Beginner Contest 371 | 1 / 6 | <span style="color:#478000">989</span> | - | |
+| blog start | | <span style="color:#478000">989</span> | - | 2024 / 09 / 11 |
 
