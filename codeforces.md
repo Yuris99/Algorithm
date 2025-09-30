@@ -14,6 +14,11 @@ key: page-codeforces
 
 | `title` | `div` | `Solved` | `rate` | `change` | `Date` |
 | --- |  :---: | :---: | :---: | :---: | :---: |
+| <a href="./codeforces/1054">Codeforces Round 1054</a> | div. 3 | 5 / 7 | Unrated | 0 | 2025 / 09 / 25 |
+| <a href="./codeforces/1053">Codeforces Round 1053</a> | div. 2 | 3 / 7 | <span style="color:#0000FF">1603</span> | 10 | 2025 / 09 / 24 |
+| <a href="./codeforces/1052">Codeforces Round 1052</a> | div. 2 | 4 / 7 | <span style="color:#77DDBB">1593</span> | -25 | 2025 / 09 / 21 |
+| <a href="./codeforces/G29">Codeforces Global Round 29</a> | div. 1 + div. 2 | 4 / 7 | <span style="color:#0000FF">1618</span> | +55 | 2025 / 09 / 17 |
+| <a href="./codeforces/1051">Codeforces Round 1051</a> | div. 2 | 3 / 7 | <span style="color:#77DDBB">1563</span> | -22 | 2025 / 09 / 17 |
 | <a href="./codeforces/1050">Codeforces Round 1050</a> | div. 4 | 5+1 / 7 | Unrated | 0 | 2025 / 09 / 13 |
 | <a href="./codeforces/1049">Codeforces Round 1049</a> | div. 2 | 3 / 7 | <span style="color:#77DDBB">1585</span> | 0 | 2025 / 09 / 09 |
 | <a href="./codeforces/1047">Codeforces Round 1047</a> | div. 3 | 5+1 / 7 | <span style="color:#77DDBB">1585</span> | +33 | 2025 / 09 / 07 |
