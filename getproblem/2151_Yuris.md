@@ -1,0 +1,100 @@
+
+---
+title: Codeforces Round 1053 (Div. 2)
+categories: Codeforces
+tags: codeforces cf_summary
+article_header:
+  type: cover
+---
+## Contest info
+
+[> Go to Codeforces Contests list](../codeforces)
+
+| Title | <a href="https://codeforces.com/contest/2151">Codeforces Round 1053 (Div. 2)</a> |
+| Division | 10532 |
+| Date | 2025 / 09 / 24 |
+| Official | Rated |
+| Rank | 1365 |
+| Performance | <strong><span style="color:#0000FF">1652</span></strong> |
+| Rating | <strong><span style="color:#0000FF">1603</span></strong>  <span style="color:#777777">(+10)</span> |
+
+## Problems
+
+| <strong>#</strong> | <strong>Name</strong> | <strong> Solved </strong> | <strong>Attempt</strong> |
+| :---: | --- | :---: | :---: |
+
+| A | Incremental Subarray | <span style="color:green"> solved </span> | 0 |
+| B | Incremental Path | <span style="color:green"> solved </span> | 0 |
+| C | Incremental Stay | <span style="color:green"> solved </span> | 0 |
+| D | Grid Counting | <span style="color:orange"> upsolved </span> | 2 |
+| E | Limited Edition Shop |  | 0 |
+| F | Attraction Theory |  | 0 |
+| G1 | Hidden Single (Version 1) |  | 0 |
+| G2 | Hidden Single (Version 2) |  | 0 |
+
+
+## Solution
+
+### A. Incremental Subarray
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### B. Incremental Path
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### C. Incremental Stay
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### D. Grid Counting
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### E. Limited Edition Shop
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### F. Attraction Theory
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### G1. Hidden Single (Version 1)
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### G2. Hidden Single (Version 2)
+#### 요약
+
+##### 제한
+
+#### 풀이
+

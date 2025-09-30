@@ -1,0 +1,91 @@
+
+---
+title: Codeforces Round 1052 (Div. 2)
+categories: Codeforces
+tags: codeforces cf_summary
+article_header:
+  type: cover
+---
+## Contest info
+
+[> Go to Codeforces Contests list](../codeforces)
+
+| Title | <a href="https://codeforces.com/contest/2146">Codeforces Round 1052 (Div. 2)</a> |
+| Division | 10522 |
+| Date | 2025 / 09 / 21 |
+| Official | Rated |
+| Rank | 2795 |
+| Performance | <strong><span style="color:#0000FF">1652</span></strong> |
+| Rating | <strong><span style="color:#77DDBB">1593</span></strong>  <span style="color:#777777">(-25)</span> |
+
+## Problems
+
+| <strong>#</strong> | <strong>Name</strong> | <strong> Solved </strong> | <strong>Attempt</strong> |
+| :---: | --- | :---: | :---: |
+
+| A | Equal Occurrences | <span style="color:green"> solved </span> | 0 |
+| B | Merging the Sets | <span style="color:green"> solved </span> | 0 |
+| C | Wrong Binary Search | <span style="color:green"> solved </span> | 0 |
+| D1 | Max Sum OR (Easy Version) | <span style="color:green"> solved </span> | 2 |
+| D2 | Max Sum OR (Hard Version) |  | 0 |
+| E | Yet Another MEX Problem |  | 0 |
+| F | Bubble Sort |  | 0 |
+
+
+## Solution
+
+### A. Equal Occurrences
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### B. Merging the Sets
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### C. Wrong Binary Search
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### D1. Max Sum OR (Easy Version)
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### D2. Max Sum OR (Hard Version)
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### E. Yet Another MEX Problem
+#### 요약
+
+##### 제한
+
+#### 풀이
+
+
+### F. Bubble Sort
+#### 요약
+
+##### 제한
+
+#### 풀이
+
