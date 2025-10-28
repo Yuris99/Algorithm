@@ -14,6 +14,9 @@ key: page-codeforces
 
 | `title` | `div` | `Solved` | `rate` | `change` | `Date` |
 | --- |  :---: | :---: | :---: | :---: | :---: |
+| <a href="./codeforces/1061">Codeforces Round 1061</a> | div. 2 | 3 / 7 | <span style="color:#77DDBB">1508</span> | +23 | 2025 / 10 / 24 |
+| <a href="./codeforces/1060">Codeforces Round 1060</a> | div. 2 | 3 / 7 | <span style="color:#77DDBB">1485</span> | -28 | 2025 / 10 / 19 |
+| ... |   |   | <span style="color:#77DDBB">1513</span> |  |  |
 | <a href="./codeforces/1054">Codeforces Round 1054</a> | div. 3 | 5 / 7 | Unrated | 0 | 2025 / 09 / 25 |
 | <a href="./codeforces/1053">Codeforces Round 1053</a> | div. 2 | 3 / 7 | <span style="color:#0000FF">1603</span> | 10 | 2025 / 09 / 24 |
 | <a href="./codeforces/1052">Codeforces Round 1052</a> | div. 2 | 4 / 7 | <span style="color:#77DDBB">1593</span> | -25 | 2025 / 09 / 21 |
