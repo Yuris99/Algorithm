@@ -1,0 +1,51 @@
+---
+layout: base
+---
+
+<div class="book-page js-page-root">
+  <div class="book-page__header d-print-none">{%- include header.html -%}</div>
+
+  <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
+  <div class="book-page__actions page__actions d-print-none">
+    <button class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show" aria-label="Book 목차 열기">
+      <i class="fas fa-bars"></i>
+    </button>
+  </div>
+
+  <div class="book-page__body">
+    <aside class="book-page__nav d-print-none">
+      {%- include sidebar/toc.html -%}
+    </aside>
+
+    <main class="book-page__main">
+      <article class="layout--article" itemscope itemtype="http://schema.org/Article">
+        {%- include article-header.html article=page -%}
+        {%- include article-info.html article=page -%}
+        <div class="article__content js-article-content" itemprop="articleBody">{{ content }}</div>
+        <div class="d-print-none">{%- include article-section-navigator.html -%}</div>
+      </article>
+    </main>
+
+    <aside class="book-page__index d-print-none js-col-aside">
+      <div class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div></div>
+    </aside>
+  </div>
+
+  <div class="book-page__footer d-print-none">{%- include footer.html -%}</div>
+  <div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal">{%- include search.html -%}</div>
+</div>
+
+<script>{%- include scripts/lib/modal.js -%}</script>
+<script>
+  {%- include scripts/lib/scroll-to.js -%}
+  {%- include scripts/lib/affix.js -%}
+  {%- include scripts/lib/toc.js -%}
+  {%- include scripts/page.js -%}
+  {%- include scripts/article.js -%}
+  {%- include scripts/components/sidebar.js -%}
+</script>
+{%- if page.aside.toc -%}
+<script>{%- include scripts/aside/toc.js -%}</script>
+{%- endif -%}
+{%- include markdown-enhancements.html -%}
+{%- include mathjax_support.html -%}

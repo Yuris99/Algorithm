@@ -2,8 +2,6 @@
 title: Sqrt Decomposition
 categories: docs
 tags: algorithm
-article_header:
-  type: cover
 ---
 
 제곱근 분할법

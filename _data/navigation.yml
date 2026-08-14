@@ -18,9 +18,9 @@ header:
     url: /BOJ.html
   - titles:
       # @start locale config
-      en      : &EN       DOC
+      en      : &EN       Book
       # @end locale config
-    url: /DOC.html
+    url: /book/
 
   - titles:
       # @start locale config
@@ -33,3 +33,26 @@ header:
       en      : &EN       About
       # @end locale config
     url: /about.html
+
+algorithm_wiki:
+  - title: 시작하기
+    children:
+      - title: Book 홈
+        url: /book/
+
+  - title: 수열 · 탐색
+    children:
+      - title: 최장 증가 부분 수열 (LIS)
+        url: /book/lis/
+      - title: 삼분 탐색
+        url: /book/ternary-search/
+
+  - title: 자료구조
+    children:
+      - title: 제곱근 분할법
+        url: /book/sqrt-decomposition/
+
+  - title: 트리
+    children:
+      - title: Heavy-Light Decomposition
+        url: /book/hld/

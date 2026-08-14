@@ -11,6 +11,9 @@ key: page-boj
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuris)](https://solved.ac/yuris)
 <p>powered by <a href="https://github.com/mazassumnida/mazacofo">mazassumnida</a></p>
 
+GOODBYE BOJ....
+
+
 ## Problem List
 
 ## Contest List

@@ -2,8 +2,6 @@
 title: Longest Increasing Subsequence (최장 증가 수열, LIS)
 categories: docs
 tags: algorithm
-article_header:
-  type: cover
 ---
 
 

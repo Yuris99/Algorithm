@@ -2,8 +2,6 @@
 title: Heavy Light Decomposition
 categories: docs
 tags: algorithm, tree
-article_header:
-  type: cover
 ---
 
 트리에서 특정 노드의 범위를 세그먼트 트리로 사용할 수 있도록 하는 알고리즘
