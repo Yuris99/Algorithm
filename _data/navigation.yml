@@ -49,8 +49,18 @@ algorithm_wiki:
 
   - title: 자료구조
     children:
+      - title: 세그먼트 트리
+        url: /book/segment-tree/
+      - title: 레이지 세그먼트 트리
+        url: /book/lazy-segment-tree/
+      - title: 펜윅 트리
+        url: /book/fenwick-tree/
+      - title: 퍼시스턴트 세그먼트 트리
+        url: /book/persistent-segment-tree/
       - title: 제곱근 분할법
         url: /book/sqrt-decomposition/
+      - title: 모스 알고리즘
+        url: /book/mos-algorithm/
 
   - title: 트리
     children:
